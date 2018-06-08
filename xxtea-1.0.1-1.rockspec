@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "xxtea"
-version = "1.0.0-1"
+version = "1.0.1-1"
 -- LuaDist source
 source = {
-  tag = "1.0.0-1",
+  tag = "1.0.1-1",
   url = "git://github.com/LuaDist-testing/xxtea.git"
 }
 -- Original source
 -- source = {
 --     url = "git://github.com/xxtea/xxtea-lua.git",
---     tag = "v1.0.0"
+--     tag = "v1.0.1"
 -- }
 description = {
    summary = 'XXTEA for Lua.',
